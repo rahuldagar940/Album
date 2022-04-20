@@ -67,6 +67,6 @@ public class AlbumRepository
             }
         }
         return deletedAlbum;
-        
+
     }
 }
