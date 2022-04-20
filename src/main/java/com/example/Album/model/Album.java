@@ -14,7 +14,14 @@ public class Album
         this.coverPicURL = coverPicURL;
     }
 
-    
+    public int getAlbumID() {
+        return albumID;
+    }
+
+    public void setAlbumID(int albumID) {
+        this.albumID = albumID;
+    }
+
     public String getName() {
         return name;
     }
